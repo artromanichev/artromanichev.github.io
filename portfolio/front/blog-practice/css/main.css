@@ -137,11 +137,13 @@ img {
 	max-width: 1170px;		
 	margin-right: auto;
 	margin-left: auto;
+	box-sizing: border-box;
 }
 
 /*MAIN*/
 .main {
-	width: 770px;	
+	width: 770px;
+	margin-right: 10px;
 	margin-bottom: 152px;
 }
 
@@ -271,8 +273,7 @@ img {
 
 /*SIDEBAR*/
 .sidebar {
-	width: 352px;
-	padding-left: 15px;
+	width: 352px;	
 	box-sizing: border-box;
 }
 
