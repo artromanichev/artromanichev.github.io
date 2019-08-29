@@ -272,7 +272,7 @@ img {
 /*SIDEBAR*/
 .sidebar {
 	width: 352px;
-	padding-right: 15px;
+	padding-left: 15px;
 	box-sizing: border-box;
 }
 
