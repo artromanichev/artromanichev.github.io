@@ -271,7 +271,9 @@ img {
 
 /*SIDEBAR*/
 .sidebar {
-	width: 352px;	
+	width: 352px;
+	padding-right: 15px;
+	box-sizing: border-box;
 }
 
 .widget {
